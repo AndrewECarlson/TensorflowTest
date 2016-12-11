@@ -1,3 +1,3 @@
 import tensorflow as tf
 
-print("this is a test")
+print("a test")
